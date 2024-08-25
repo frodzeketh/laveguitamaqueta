@@ -377,15 +377,7 @@ header {
 
 
 
-  iframe {
-    width: 100%; /* Ancho completo del contenedor */
-    height: 500px; /* Altura personalizada */
-    border: 2px solid black; /* Cambiar el color del borde */
-    border-radius: 10px; /* Bordes redondeados */
-    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3); /* Sombra para el iframe */
-}
-
-
+ 
 
 
 
@@ -811,7 +803,7 @@ header {
     outline: 0;
   }
   button:hover {
-    background-color: #2a2a2a;
+    
     color: #fff;
   }
   button .fa {
